@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>SoftblueFundamentosAvancados_15_Criando_um_Framework_de_Execução</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SoftblueFundamentosAvancados_16_Criando_um_Framework_de_Execução\SoftblueFundamentosAvancados_16_Criando_um_Framework_de_Execução.csproj" />
+    </ItemGroup>
+
+</Project>
